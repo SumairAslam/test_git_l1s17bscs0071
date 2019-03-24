@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 "Name:Muhammad Sumair Aslam"
 Email:sumair.aslam101@ucp.edu.pk
 Faculty of Information Technology UCP
+=======
+"Name:Sumair Aslam"
+Email:sumair.aslam101@ucp.edu.pk
+Faculty of Information Technology
+>>>>>>> b229696f76f1796f6590ca7d07a003731f28fcd7
