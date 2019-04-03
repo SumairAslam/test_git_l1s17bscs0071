@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Favourite Pet</title>
+    <link rel="stylesheet" type="text/css" href="stylecss.css" />
+</head>
+<body>
+<h1 style="background-color:beige;text-align:-webkit-center;border-radius: 25px;border-style: outset;">Favourite Pet</h1>
+<hr>
+<img height="500px" width="700px" src="https://gfnc1kn6pi-flywheel.netdna-ssl.com/wp-content/uploads/2017/11/boxer.jpg" style="box-shadow: 10px 10px darkgoldenrod;cursor: grabbing" >
+</body>
+
+</html>
